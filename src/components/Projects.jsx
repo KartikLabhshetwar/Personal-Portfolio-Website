@@ -5,6 +5,15 @@ import projects3 from "/src/assets/img/project-3.jpg";
 function Projects() {
   const projects = [
     {
+      subtitle: "Web app",
+      title: "Music Player App",
+      description:
+        "This interactive web player, crafted with HTML, CSS, and JavaScript, lets you control your music with ease. Play, pause, and switch tracks seamlessly, all while enjoying a sleek and intuitive UI. It's a springboard for further features like volume control, playlists, and more. Dive in and let the music flow!",
+      demo: "https://music-player-app-neon-sigma.vercel.app/",
+      sourceCode: "https://github.com/KartikLabhshetwar/Music-Player-App",
+      projectImg: projects3,
+    },
+    {
       subtitle: "Website",
       title: "To-Do App",
       description:
@@ -21,15 +30,6 @@ function Projects() {
       demo: "",
       sourceCode: "https://github.com/KartikLabhshetwar/Weather-App-",
       projectImg: projects2,
-    },
-    {
-      subtitle: "Web app",
-      title: "Music Player App",
-      description:
-        "This interactive web player, crafted with HTML, CSS, and JavaScript, lets you control your music with ease. Play, pause, and switch tracks seamlessly, all while enjoying a sleek and intuitive UI. It's a springboard for further features like volume control, playlists, and more. Dive in and let the music flow!",
-      demo: "https://music-player-app-neon-sigma.vercel.app/",
-      sourceCode: "https://github.com/KartikLabhshetwar/Music-Player-App",
-      projectImg: projects3,
     }
   ];
 
