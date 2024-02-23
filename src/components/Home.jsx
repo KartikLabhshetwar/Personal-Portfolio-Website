@@ -19,7 +19,7 @@ function Home() {
 
           <div className="home__social">
             <a
-              href="https://www.linkedin.com/in/kartik017/"
+              href="https://www.linkedin.com/in/kartikcode/"
               target="_blank"
               className="home__social-link"
             >
@@ -40,7 +40,7 @@ function Home() {
               <i className="ri-twitter-line"></i>
             </a>
             <a
-              href="https://www.linkedin.com/in/kartikcode/"
+              href="https://www.instagram.com/kartiklabhshetwar017"
               target="_blank"
               className="home__social-link"
             >
