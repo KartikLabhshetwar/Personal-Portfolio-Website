@@ -134,14 +134,14 @@ function Contact() {
 
             <div className="contact__social-links">
               <a
-                href="https://www.linkedin.com/in/kartik017/"
+                href="https://www.linkedin.com/in/kartikcode/"
                 target="_blank"
                 className="contact__social-link"
               >
                 <i className="ri-linkedin-box-line"></i>
               </a>
               <a
-                href="https://twitter.com/Kartiktwts"
+                href="https://twitter.com/code_kartik"
                 target="_blank"
                 className="contact__social-link"
               >
