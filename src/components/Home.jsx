@@ -33,14 +33,14 @@ function Home() {
               <i className="ri-github-line"></i>
             </a>
             <a
-              href="https://twitter.com/Kartiktwts"
+              href="https://twitter.com/code_kartik"
               target="_blank"
               className="home__social-link"
             >
               <i className="ri-twitter-line"></i>
             </a>
             <a
-              href="https://www.instagram.com/kartiklabhshetwar017"
+              href="https://www.linkedin.com/in/kartikcode/"
               target="_blank"
               className="home__social-link"
             >
